@@ -30,7 +30,7 @@ Since we know this will be a Help Desk user, we can go ahead and give the user a
 
 <br />
 Now you will have the option to scroll down and see all the available features. As you scroll, you’ll start to see RSAT features/tool. These are the features/tools you would want to install on your help desk computer. Your organization would determine which features/tools a user would have access to. For this lab we will give the user access to quite a few features/tools. DNS management tool, DHCP management tools, Server management tools, Domain system, and remote access to name a few. Once all the features/tools are selected, hit next and install. (**Note: RSAT features and tools allow you have services on an non Windows Server PC.) <br/>
-<img src="https://github.com/Rastallworth1/Enabling-an-Administrator-account-on-Windows-11/blob/main/Screenshot%203.png"/>
+<img src="https://github.com/Rastallworth1/Joining-a-computer-to-a-Domain/blob/main/join%20pc%203.png"/>
 <br />
 
 
