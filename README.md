@@ -57,7 +57,7 @@ Next you will scroll down to related links and select Domain or workgroup. <br/>
 Select to rename this computer or change its domain or workgroup, click change. Go to the Member of section and type in the domain name you wish to join. You should receive a message that says welcome to the domain and a message asking you to restart your PC. <br/>
 <img src="https://github.com/Rastallworth1/Joining-a-computer-to-a-Domain/blob/main/Join%20PC%207%20p1.png"/>
 <br />
-<img src="https://github.com/Rastallworth1/Enabling-an-Administrator-account-on-Windows-11/blob/main/Screenshot%206.png"/>
+<img src="https://github.com/Rastallworth1/Joining-a-computer-to-a-Domain/blob/main/Join%20PC%207%20p2.png"/>
 <br />
 <img src="https://github.com/Rastallworth1/Enabling-an-Administrator-account-on-Windows-11/blob/main/Screenshot%206.png"/>
 <br />
