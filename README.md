@@ -41,7 +41,7 @@ Now all tools are installed, we are all set right?? Not quite, keep in mind, we 
 
 
 <br />
-To join the PC to a domain we will double click File Explorer from the home screen and right click on properties.  <br/>
+To join the PC to a domain we will double click File Explorer from the home screen and right click on this PC and select properties.  <br/>
 <img src="https://github.com/Rastallworth1/Joining-a-computer-to-a-Domain/blob/main/join%20PC%205.png"/>
 <br />
 
