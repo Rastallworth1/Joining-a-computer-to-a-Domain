@@ -24,7 +24,7 @@ Notice, at the sign in screen we only have an option for the administrator. This
 
 <br />
 Since we know this will be a Help Desk user, we can go ahead and give the user access to some of the Roles and Features that the Windows Server Manger would have. Remember, they won’t have access to everything, just what is needed for their role.  We will start by going to Optional Features. This can be done by typing optional features in the search bar. Once you are there, just select view features.<br/>
-<img src="https://github.com/Rastallworth1/Enabling-an-Administrator-account-on-Windows-11/blob/main/Screenshot%202.png"/>
+<img src="https://github.com/Rastallworth1/Joining-a-computer-to-a-Domain/blob/main/join%20pc%202.png"/>
 <br />
 
 
