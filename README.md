@@ -66,10 +66,10 @@ Select to rename this computer or change its domain or workgroup, click change. 
 
 <br />
 After you restart, you will notice that you have the option to sign into your Domain. Now you can sign in with an account in your domain to this PC. You can also verify by going to the Server Manager and looking in Computers under your domain name. In this lab, you see my PC (Desktop2ADlab) under the ReggieTech Domain.  <br/>
-<img src="https://github.com/Rastallworth1/Enabling-an-Administrator-account-on-Windows-11/blob/main/Screenshot%206.png"/>
+<img src="https://github.com/Rastallworth1/Joining-a-computer-to-a-Domain/blob/main/Join%20PC%208%20pt%201.png"/>
 <br />
 <br/>
-<img src="https://github.com/Rastallworth1/Enabling-an-Administrator-account-on-Windows-11/blob/main/Screenshot%206.png"/>
+<img src="https://github.com/Rastallworth1/Joining-a-computer-to-a-Domain/blob/main/Join%20PC%208%20pt%201.png"/>
 <br />
 
 
