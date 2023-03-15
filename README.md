@@ -49,7 +49,7 @@ To join the PC to a domain we will double click File Explorer from the home scre
 
   <br />
 Next you will scroll down to related links and select Domain or workgroup. <br/>
-<img src="https://github.com/Rastallworth1/Enabling-an-Administrator-account-on-Windows-11/blob/main/Screenshot%206.png"/>
+<img src="https://github.com/Rastallworth1/Joining-a-computer-to-a-Domain/blob/main/Join%20PC%206.png"/>
 <br />
 
 
