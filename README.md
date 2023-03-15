@@ -18,7 +18,7 @@ For this Lab, we will add a Help Desk Computer to the domain. One important thin
 
 <p align="center">
 Notice, at the sign in screen we only have an option for the administrator. This is because the other user accounts on the PC are disabled, and we are not joined to a domain.<br/>
-<img src="https://github.com/Rastallworth1/Enabling-an-Administrator-account-on-Windows-11/blob/main/Screenshot%201.png"/>
+<img src="https://github.com/Rastallworth1/Joining-a-computer-to-a-Domain/blob/main/Join%20PC%201.png"/>
 <br />
 
 
