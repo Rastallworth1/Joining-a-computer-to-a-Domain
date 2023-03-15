@@ -69,7 +69,7 @@ After you restart, you will notice that you have the option to sign into your Do
 <img src="https://github.com/Rastallworth1/Joining-a-computer-to-a-Domain/blob/main/Join%20PC%208%20pt%201.png"/>
 <br />
 <br/>
-<img src="https://github.com/Rastallworth1/Joining-a-computer-to-a-Domain/blob/main/Join%20PC%208%20pt%201.png"/>
+<img src="https://github.com/Rastallworth1/Joining-a-computer-to-a-Domain/blob/main/Join%20PC%208%20pt%202.png"/>
 <br />
 
 
@@ -81,4 +81,4 @@ After you restart, you will notice that you have the option to sign into your Do
 
 
 <br />
-This was a simple Active Directory Home Lab / Tutorial thats demonstrates the proper steps to enable an Administrator account on a Windows 11 PC.<br/>
+This was a simple Active Directory Home Lab / Tutorial thats demonstrates the proper steps add a Windows 11 PC to a domain.<br/>
