@@ -59,7 +59,7 @@ Select to rename this computer or change its domain or workgroup, click change. 
 <br />
 <img src="https://github.com/Rastallworth1/Joining-a-computer-to-a-Domain/blob/main/Join%20PC%207%20p2.png"/>
 <br />
-<img src="https://github.com/Rastallworth1/Enabling-an-Administrator-account-on-Windows-11/blob/main/Screenshot%206.png"/>
+<img src="https://github.com/Rastallworth1/Joining-a-computer-to-a-Domain/blob/main/join%20pc%207%20p3.png"/>
 <br />
 
 
