@@ -36,7 +36,7 @@ Now you will have the option to scroll down and see all the available features. 
 
 <br />
 Now all tools are installed, we are all set right?? Not quite, keep in mind, we are still not joined to a domain, so none of the tools will work. <br/>
-<img src="https://github.com/Rastallworth1/Enabling-an-Administrator-account-on-Windows-11/blob/main/Screenshot%204%20pt%201.png"/>
+<img src="https://github.com/Rastallworth1/Joining-a-computer-to-a-Domain/blob/main/PC%20join%204.png"/>
 <br />
 
 
