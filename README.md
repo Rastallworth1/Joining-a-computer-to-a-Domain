@@ -4,7 +4,7 @@
 
 
 <h2>Description</h2>
-For this Lab, we will add a Help Desk Computer to the domain. One important thing to note is that Help Desk personnel will have access to things other in your organization may not. For example, they may have access to Active Directory, but not complete access to Windows Server, while a normal user will not have access to either. Help Desk computers should have their Administrator account enabled on their computer.  In this lab our domain is ReggieTech.comand the PC name is Desktop2ADlab
+For this Lab, we will add a Help Desk Computer to the domain. One important thing to note is that Help Desk personnel will have access to things others in your organization may not. For example, they may have access to Active Directory, but not complete access to Windows Server, while a normal user will not have access to either. Help Desk computers should have their Administrator account enabled on their computer.  In this lab our domain is ReggieTech.com and the PC name is Desktop2ADlab
 <br />
 
 
@@ -65,7 +65,7 @@ Select to rename this computer or change its domain or workgroup, click change. 
 
 
 <br />
-After you restart, you will notice that you have the option to sign into your Domain. Now you can sign in with an account in your domain to this PC. You can also verify by going to the Server Manager and looking in Computers under your domain name. In this lab, you see my PC (Desktop2ADlab) under the ReggieTech Domain.  <br/>
+After you restart, you will notice that you have the option to sign into your Domain. Now you can sign in with an account in your domain to this PC. You can also verify by going to the Server Manager and looking in Computers under your domain name. In this lab, you'll see my PC (Desktop2ADlab) under the ReggieTech Domain.  <br/>
 <img src="https://github.com/Rastallworth1/Joining-a-computer-to-a-Domain/blob/main/Join%20PC%208%20pt%201.png"/>
 <br />
 <br/>
